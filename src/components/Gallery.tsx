@@ -39,7 +39,7 @@ export default function Gallery() {
   const openLightbox = () => setIsLightboxOpen(true);
   const closeLightbox = () => setIsLightboxOpen(false);
 
-  const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/Dupzqbpja8DxWKSH8';
+  const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/ttYioBqpBgQfTTFy8';
 
   return (
     <>

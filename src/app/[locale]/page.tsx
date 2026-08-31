@@ -1,5 +1,4 @@
 import { setRequestLocale } from 'next-intl/server';
-import type { Metadata } from 'next';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import Intro from '@/components/Intro';
@@ -9,31 +8,13 @@ import TicketsSection from '@/components/TicketsSection';
 import TransportSection from '@/components/TransportSection';
 import InfoSection from '@/components/InfoSection';
 import RouteSection from '@/components/RouteSection';
+import NearbyMonumentsSection from '@/components/NearbyMonumentsSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
-import MapEmbed from '@/components/MapEmbed';
 import FAQSection from '@/components/FAQSection';
+import SourcesSection from '@/components/SourcesSection';
+import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
-
-export async function generateMetadata({
-  params,
-}: {
-  params: Promise<{ locale: string }>;
-}): Promise<Metadata> {
-  const { locale } = await params;
-  const baseUrl = 'https://russianmonumentsofia.com';
-  return {
-    alternates: {
-      canonical: `${baseUrl}/${locale}`,
-      languages: {
-        'bg': `${baseUrl}/bg`,
-        'en': `${baseUrl}/en`,
-        'zh': `${baseUrl}/zh`,
-        'x-default': `${baseUrl}/en`,
-      },
-    },
-  };
-}
 
 export default async function HomePage({
   params,
@@ -55,9 +36,11 @@ export default async function HomePage({
         <TransportSection />
         <InfoSection />
         <RouteSection />
+        <NearbyMonumentsSection />
         <Gallery />
         <Reviews />
         <FAQSection />
+        <SourcesSection />
         <MapEmbed />
       </main>
       <Footer />

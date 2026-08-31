@@ -18,11 +18,26 @@ export default function Intro() {
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
+        <nav
+          aria-label="Breadcrumb"
+          className="text-xs sm:text-sm mb-6"
+          style={{ color: 'var(--text-muted)' }}
+        >
+          {t('breadcrumb')}
+        </nav>
+
         <p
-          className="text-lg leading-relaxed mb-12"
+          className="text-lg leading-relaxed mb-6"
           style={{ color: 'var(--text-secondary)' }}
         >
           {t('description')}
+        </p>
+
+        <p
+          className="text-base leading-relaxed mb-12"
+          style={{ color: 'var(--text-secondary)' }}
+        >
+          {t('nearby')}
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

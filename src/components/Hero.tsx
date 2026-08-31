@@ -3,7 +3,7 @@ import { useTranslations } from 'next-intl';
 export default function Hero() {
   const t = useTranslations('hero');
 
-  const mapsLink = t('mapsLink') || 'https://maps.app.goo.gl/KxwFywyG12yxtgsF9';
+  const mapsLink = t('mapsLink') || 'https://maps.app.goo.gl/ttYioBqpBgQfTTFy8';
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">

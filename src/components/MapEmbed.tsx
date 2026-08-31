@@ -4,7 +4,7 @@ import { useMessages } from 'next-intl';
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
   const messages = useMessages() as any;
-  const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/KxwFywyG12yxtgsF9';
+  const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/ttYioBqpBgQfTTFy8';
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -28,14 +28,14 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=pl.+Ruski+pametnik,+blvd.+Makedonia+51,+1606+Sofia,+Bulgaria&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5215.952761716439!2d23.310431899999998!3d42.692253199999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40aa85156dde5df7%3A0x3d965b0d2c6d427a!2sRussian%20Monument%20Square!5e1!3m2!1szh-CN!2s!4v1788190122444!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - The Russian Monument in Sofia"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - The Russian Monument in Sofia (Russian Monument Square)"
           />
         </div>
 

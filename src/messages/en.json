@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "The Russian Monument in Sofia – Sofia, Bulgaria",
-    "description": "Complete travel guide to The Russian Monument in Sofia. Learn about this historic landmark, including location, history, and visitor information."
+    "title": "Russian Monument Sofia (Руски паметник) – History, Map & Visitor Guide",
+    "description": "Visiting the Russian Monument in Sofia? Discover the history of the 1877-1878 Russo-Turkish War landmark, location maps, tram routes, and 24/7 visitor info."
   },
   "header": {
     "home": "Home",
@@ -14,14 +14,16 @@
     "title": "The Russian Monument in Sofia",
     "subtitle": "Historic Landmark · Sofia, Bulgaria",
     "rating": "4.4",
-    "reviewCount": "7,207 reviews",
+    "reviewCount": "7,267 reviews",
     "type": "Monument",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/ttYioBqpBgQfTTFy8"
   },
   "intro": {
-    "title": "Discover The Russian Monument in Sofia",
-    "description": "The Russian Monument in Sofia is a historic landmark located in the center of the Bulgarian capital. Built to commemorate the Russian soldiers who liberated Bulgaria from Ottoman rule in 1878, it stands as a symbol of Bulgarian-Russian friendship and gratitude.",
+    "title": "About The Russian Monument in Sofia",
+    "breadcrumb": "The Russian Monument in Sofia › Sofia › Sofia City Province › Bulgaria",
+    "description": "Welcome to The Russian Monument in Sofia, widely recognized simply as the Russian Monument (Руски паметник). Located in the heart of Sofia, Bulgaria, this historic landmark commemorates the Russian soldiers who liberated Bulgaria from Ottoman rule in 1878 and stands as a symbol of Bulgarian-Russian friendship and gratitude.",
+    "nearby": "When visiting The Russian Monument in Sofia, visitors can easily explore surrounding historical landmarks and points of interest, including Alexander Nevsky Cathedral and St. Sofia Church.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -47,17 +49,17 @@
       {
         "id": "history",
         "title": "History & Significance",
-        "content": "The Russian Monument was unveiled in 1882 to honor the Russian volunteers who died during the Russo-Turkish War (1877-1878). The war resulted in the liberation of Bulgaria from nearly five centuries of Ottoman rule. The monument was designed by Italian sculptor Arnoldo Zocchi."
+        "content": "The Russian Monument was unveiled on 29 June 1882, the first monument built in Sofia after the Liberation. It honors the Russian soldiers who fell during the Russo-Turkish War (1877-1878), which ended nearly five centuries of Ottoman rule over Bulgaria. The project was funded by donations collected from the Russian people; the names of the designers remain unknown to official records."
       },
       {
         "id": "architecture",
         "title": "Architecture & Design",
-        "content": "The monument features a tall obelisk crowned with a bronze double-headed eagle, the emblem of the Russian Empire. The base is decorated with sculptural reliefs depicting scenes from the liberation war. The design combines elements of Russian and Bulgarian decorative traditions."
+        "content": "The monument is a truncated four-sided pyramid (obelisk) set on a three-step base. On its western side it bears the inscription \"Не нам, не нам, а имени Твоему\" (\"Not unto us, not unto us, but to Thy name\") with the dates 1877-1878. The eastern side features a stone relief of the coat of arms of the Russian Empire together with a St George Cross, a Russian military decoration. All inscriptions on the monument are in Russian."
       },
       {
         "id": "location",
         "title": "Location & Surroundings",
-        "content": "The monument is situated at the intersection of Makedonia Boulevard and Evlogi Georgiev Boulevard in Sofia Center. The location, known as Ploshtad \"Ruski Pametnik\" (Russian Monument Square), is a major traffic junction and public space in the city."
+        "content": "The monument is situated at the intersection of Makedonia Boulevard and Evlogi Georgiev Boulevard in Sofia Center. The location, known in Bulgarian as пл. „Руски паметник\" (Ploshtad \"Ruski Pametnik\", Russian Monument Square), is a major traffic junction and public space in the city."
       },
       {
         "id": "preservation",
@@ -83,8 +85,28 @@
       },
       {
         "question": "How do I get to the monument?",
-        "answer": "The monument is accessible by public transport (buses, trolleys) and metro. The nearest metro station is approximately a 10-15 minute walk away. Taxis and ride-sharing services are also readily available in Sofia."
+        "answer": "The monument is accessible by public transport: trams 4, 5 and 15 stop at the \"Руски паметник\" stop at the square, and buses and trolleys stop nearby on Makedonia Boulevard. Metro Line 3 is about a 10-15 minute walk away. Taxis and ride-sharing services are also readily available in Sofia."
+      },
+      {
+        "question": "What landmarks are near the Russian Monument?",
+        "answer": "The Russian Monument stands near several major Sofia landmarks, including Alexander Nevsky Cathedral, St. Sofia Church and the National Archaeological Museum – all within a 10–20 minute walk."
+      },
+      {
+        "question": "Is the Russian Monument accessible to visitors with reduced mobility?",
+        "answer": "The monument is an outdoor landmark in an open public square and can be approached from the surrounding pavements. Some crossings may be uneven, so visitors with mobility needs are advised to approach from the main pavement along Makedonia Boulevard."
       }
+    ]
+  },
+  "sources": {
+    "title": "Sources & Official References",
+    "description": "This guide is compiled from official and authoritative Bulgarian sources. For official updates and regional tourism information, visit the Sofia Tourism Board or the Bulgaria Ministry of Tourism.",
+    "items": [
+      { "name": "Sofia City Government", "url": "https://www.sofia.bg/" },
+      { "name": "Sofia Tourism Board (Visit Sofia)", "url": "http://visitsofia.bg/" },
+      { "name": "Bulgaria Ministry of Tourism", "url": "https://www.tourism.government.bg/" },
+      { "name": "Bulgaria Ministry of Culture", "url": "https://mc.government.bg/" },
+      { "name": "National Institute of Immovable Cultural Heritage (NINKN)", "url": "http://ninkn.bg/" },
+      { "name": "Ministry of Foreign Affairs – Travel to Bulgaria", "url": "https://www.mfa.bg/en/services-travel/consular-services/travel-bulgaria/visa-bulgaria" }
     ]
   },
   "basicInfo": {
@@ -98,7 +120,7 @@
     "city": "City",
     "cityValue": "Sofia",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.4 (7,207)",
+    "googleRatingValue": "4.4 (7,267)",
     "address": "Address",
     "addressValue": "pl. \"Ruski pametnik\", blvd. \"Makedonia\" 51, 1606 Sofia, Bulgaria",
     "accessibility": "Accessibility",
@@ -129,17 +151,53 @@
   "transport": {
     "title": "How to Get Here",
     "fromCenter": "From Sofia Center",
-    "fromCenterDesc": "The monument is located in Sofia Center, easily walkable from city center (15-20 min).",
+    "fromCenterDesc": "The monument sits in Sofia Center at the junction of Makedonia and Evlogi Georgiev boulevards, about a 15-20 minute walk from the central pedestrian zone and most major hotels.",
     "fromStation": "By Public Transport",
-    "fromStationDesc": "Multiple bus and trolley lines stop near the monument.",
+    "fromStationDesc": "The \"Руски паметник\" (Ruski Pametnik) tram stop is served by tram lines 4, 5 and 15. Bus and trolley lines also stop on Makedonia Boulevard.",
     "fromAirport": "From Sofia Airport",
-    "fromAirportDesc": "Take the metro (Line 1 or 2) to Serdika Station, then transfer to bus/trolley or walk.",
+    "fromAirportDesc": "Take the metro (Line 1 or 2) to Serdika Station, then transfer to a tram, bus or trolley towards Ruski Pametnik, or continue by taxi.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "Bus lines 72, 76, 204 and trolleys 5, 8 stop nearby.",
+    "publicTransportDesc": "Trams 4, 5 and 15 stop at the \"Руски паметник\" stop at the square; bus lines 72, 76, 204 and trolleys 5, 8 stop nearby on Makedonia Boulevard. Metro Line 3 is about a 10-15 minute walk away.",
     "walking": "Walking",
-    "walkingDesc": "20-25 minutes from Alexander Nevsky Cathedral.",
+    "walkingDesc": "About 20-25 minutes from Alexander Nevsky Cathedral, or 15-20 minutes from the central pedestrian zone and Vitosha Boulevard.",
     "driving": "Driving",
-    "drivingDesc": "Located on Makedonia Boulevard, a major thoroughfare in Sofia."
+    "drivingDesc": "Located on Makedonia Boulevard, a major thoroughfare in Sofia, at the junction with Evlogi Georgiev Boulevard."
+  },
+  "facilities": {
+    "title": "Visitor Facilities Nearby",
+    "subtitle": "Practical services around the monument, listed by type only (independent, non-commercial guide)",
+    "items": [
+      {
+        "name": "Public Restrooms",
+        "description": "Public toilets are limited directly around the busy junction. The nearest restrooms are typically inside nearby shopping centres, hotels and cafés, which generally welcome visitors; plan ahead before long walks.",
+        "hint": "Nearest: within 5-10 min walk"
+      },
+      {
+        "name": "Parking",
+        "description": "Paid on-street parking (blue and green zones) operates in the surrounding streets, free on Sundays and outside charging hours. Spaces are limited and the area is busy, so public transport is recommended.",
+        "hint": "Paid street parking · paid car parks nearby"
+      },
+      {
+        "name": "Dining & Cafés",
+        "description": "A wide choice of restaurants, cafés, bakeries and fast-food places sits within a short walk, including traditional Bulgarian taverns serving local cuisine. We list types only, not specific businesses.",
+        "hint": "Within 5-10 min walk"
+      },
+      {
+        "name": "Hotels & Accommodation",
+        "description": "Sofia's city centre offers hotels, boutique hotels, apartments and hostels within walking distance of the monument, suitable for all budgets.",
+        "hint": "Several options within 10-20 min walk"
+      },
+      {
+        "name": "Shops & Supermarkets",
+        "description": "Convenience stores and supermarkets are scattered across the centre, with larger shopping centres about 10-15 minutes away on foot.",
+        "hint": "Within 5-15 min walk"
+      },
+      {
+        "name": "Fuel & EV Charging",
+        "description": "Petrol stations are scarce in the city centre, so refuel before entering Sofia. Public electric-vehicle charging points are available at some car parks and public areas.",
+        "hint": "Fuel: city edge · EV charging: select car parks"
+      }
+    ]
   },
   "route": {
     "title": "Recommended Route",
@@ -150,6 +208,27 @@
       "Visit the Alexander Nevsky Cathedral (15 min)",
       "Explore the National Archaeological Museum (20 min)",
       "End at Vitosha Boulevard for shopping/dining"
+    ]
+  },
+  "nearbyMonuments": {
+    "title": "Sofia Monuments Walking Guide",
+    "description": "The Russian Monument is a great starting point for exploring Sofia's other historic monuments. Combine them into a single walking itinerary across the city center.",
+    "items": [
+      {
+        "name": "Tsar Liberator Monument (Паметник на Цар Освободител)",
+        "distance": "About 2 km · 25 min walk",
+        "note": "Commemorates Emperor Alexander II of Russia on Tsar Osvoboditel Boulevard - one of Sofia's most photographed landmarks."
+      },
+      {
+        "name": "Monument to the Unknown Soldier",
+        "distance": "About 1.5 km · 20 min walk",
+        "note": "An eternal flame in front of Alexander Nevsky Cathedral, honoring the Bulgarian soldiers who fell in the First World War."
+      },
+      {
+        "name": "The Bells (Камбаните)",
+        "distance": "About 11 km · by car or bus",
+        "note": "A bell monument in the International Children's Park at the foot of Vitosha Mountain, with bells donated by children from around the world."
+      }
     ]
   },
   "gallery": {
@@ -234,7 +313,8 @@
       "heritageInstitute": "National Institute of Immovable Cultural Heritage",
       "mfa": "Ministry of Foreign Affairs - Consular Services"
     },
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies.",
+    "photoCredit": "All photos displayed on this website are the property and copyright of their respective photographers."
   },
   "officialManagement": {
     "title": "About The Russian Monument",
@@ -242,7 +322,7 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: August 31, 2026",
     "sections": [
       {
         "heading": "Information Collection",
@@ -260,7 +340,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: August 31, 2026",
     "sections": [
       {
         "heading": "Website Content and Use",
