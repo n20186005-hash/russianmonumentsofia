@@ -68,6 +68,37 @@
       }
     ]
   },
+  "stories": {
+    "title": "History, Stories & Legends",
+    "subtitle": "Well-documented accounts and traditions connected to the monument",
+    "items": [
+      {
+        "title": "The first monument of liberated Sofia",
+        "content": "Unveiled on 29 June 1882, the Russian Monument was the very first monument raised in Sofia after the Liberation. Funds were collected by donations from the Russian people, and the city's gratitude shaped one of its most symbolic public spaces.",
+        "tag": "Documented history"
+      },
+      {
+        "title": "The mystery of the unknown designer",
+        "content": "Official records leave the authorship of the project unknown. Two names are usually suggested by historians: the architect Vokar, who designed monuments in Dobrich, Pleven, Razgrad and Svishtov, and academician V. Yosifov Shervurd. Neither attribution is conclusively confirmed.",
+        "tag": "Open question"
+      },
+      {
+        "title": "On the road of the fleeing Ottoman commander",
+        "content": "The monument stands along the route taken by the Ottoman commander Osman Nuri Pasha when he fled Sofia towards Pernik on 22 December 1877, during the Russo-Turkish War. Its location itself carries historical meaning.",
+        "tag": "Documented history"
+      },
+      {
+        "title": "The inscriptions and their meaning",
+        "content": "On its western side the monument bears the inscription \"Не нам, не нам, а имени Твоему\" (\"Not unto us, not unto us, but to Thy name\") with the dates 1877-1878 - words of Orthodox tradition used by the Imperial Russian Army. The eastern side shows the coat of arms of the Russian Empire and a relief of the St George Cross, a Russian military decoration.",
+        "tag": "Documented detail"
+      },
+      {
+        "title": "Wreaths on 3 March",
+        "content": "Every year on 3 March - Bulgaria's Liberation Day, marking the Treaty of San Stefano signed on 3 March 1878 - citizens and organisations lay wreaths and flowers at the monument, keeping the memory alive.",
+        "tag": "Living tradition"
+      }
+    ]
+  },
   "faq": {
     "title": "Frequently Asked Questions",
     "items": [
@@ -94,6 +125,10 @@
       {
         "question": "Is the Russian Monument accessible to visitors with reduced mobility?",
         "answer": "The monument is an outdoor landmark in an open public square and can be approached from the surrounding pavements. Some crossings may be uneven, so visitors with mobility needs are advised to approach from the main pavement along Makedonia Boulevard."
+      },
+      {
+        "question": "Are there restrooms, restaurants or shops near the monument?",
+        "answer": "Public restrooms are limited around the junction itself - the nearest ones are usually inside nearby shopping centres, hotels and cafés. Restaurants, cafés, bakeries and shops are within a short walk, and supermarkets and shopping centres are about 10-15 minutes away. Paid street parking is available in the surrounding streets, free on Sundays and outside charging hours."
       }
     ]
   },

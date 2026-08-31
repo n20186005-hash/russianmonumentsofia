@@ -6,7 +6,9 @@ import BasicInfo from '@/components/BasicInfo';
 import HoursSection from '@/components/HoursSection';
 import TicketsSection from '@/components/TicketsSection';
 import TransportSection from '@/components/TransportSection';
+import FacilitiesSection from '@/components/FacilitiesSection';
 import InfoSection from '@/components/InfoSection';
+import StoriesSection from '@/components/StoriesSection';
 import RouteSection from '@/components/RouteSection';
 import NearbyMonumentsSection from '@/components/NearbyMonumentsSection';
 import Gallery from '@/components/Gallery';
@@ -34,7 +36,9 @@ export default async function HomePage({
         <HoursSection />
         <TicketsSection />
         <TransportSection />
+        <FacilitiesSection />
         <InfoSection />
+        <StoriesSection />
         <RouteSection />
         <NearbyMonumentsSection />
         <Gallery />
