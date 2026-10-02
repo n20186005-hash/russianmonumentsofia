@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Russian Monument Sofia (Руски паметник) – History, Map & Visitor Guide",
-    "description": "Visiting the Russian Monument in Sofia? Discover the history of the 1877-1878 Russo-Turkish War landmark, location maps, tram routes, and 24/7 visitor info."
+    "title": "Russian Monument Sofia – History, Map, Address & Transport",
+    "description": "Visit the Russian Monument in Sofia: history, exact location, map, public transport, walking directions, free 24/7 access and nearby sights."
   },
   "header": {
     "home": "Home",
@@ -14,7 +14,7 @@
     "title": "The Russian Monument in Sofia",
     "subtitle": "Historic Landmark · Sofia, Bulgaria",
     "rating": "4.4",
-    "reviewCount": "7,267 reviews",
+    "reviewCount": "7,278 reviews",
     "type": "Monument",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/ttYioBqpBgQfTTFy8"
@@ -22,7 +22,7 @@
   "intro": {
     "title": "About The Russian Monument in Sofia",
     "breadcrumb": "The Russian Monument in Sofia › Sofia › Sofia City Province › Bulgaria",
-    "description": "Welcome to The Russian Monument in Sofia, widely recognized simply as the Russian Monument (Руски паметник). Located in the heart of Sofia, Bulgaria, this historic landmark commemorates the Russian soldiers who liberated Bulgaria from Ottoman rule in 1878 and stands as a symbol of Bulgarian-Russian friendship and gratitude.",
+    "description": "Welcome to The Russian Monument in Sofia (Руски паметник) – also known as Russian Monument Square (пл. „Руски паметник“) – widely recognized simply as the Russian Monument. Located in the heart of Sofia, Bulgaria, this historic landmark commemorates the Russian soldiers who liberated Bulgaria from Ottoman rule in 1878 and stands as a symbol of Bulgarian-Russian friendship and gratitude.",
     "nearby": "When visiting The Russian Monument in Sofia, visitors can easily explore surrounding historical landmarks and points of interest, including Alexander Nevsky Cathedral and St. Sofia Church.",
     "visitGuide": {
       "title": "Visit Tips",
@@ -59,12 +59,17 @@
       {
         "id": "location",
         "title": "Location & Surroundings",
-        "content": "The monument is situated at the intersection of Makedonia Boulevard and Evlogi Georgiev Boulevard in Sofia Center. The location, known in Bulgarian as пл. „Руски паметник\" (Ploshtad \"Ruski Pametnik\", Russian Monument Square), is a major traffic junction and public space in the city."
+        "content": "The monument stands at the traffic roundabout of Russian Monument Square (пл. „Руски паметник“) in Sofia Center, where Makedonia Boulevard meets General Mikhail Skobelev Boulevard and General Eduard Totleben Boulevard. The square is a major transport junction and public space in the city."
       },
       {
         "id": "preservation",
         "title": "Preservation & Status",
         "content": "The Russian Monument is protected as a cultural heritage site by the Bulgarian government. Over the years, it has undergone several restorations to preserve its historical and artistic value. It remains one of Sofia's most recognizable landmarks."
+      },
+      {
+        "id": "square",
+        "title": "Russian Monument Square in Sofia",
+        "content": "The Russian Monument and Russian Monument Square (пл. „Руски паметник“) refer to the same place in the heart of Sofia, but describe it from two angles. The Russian Monument is the obelisk itself – the 1882 historic landmark commemorating the Russo-Turkish War. Russian Monument Square is the surrounding traffic roundabout and public space that formed around the monument, a major junction where Makedonia Boulevard meets General Skobelev and General Totleben boulevards. In everyday use, the two names are interchangeable, and both point to the same well-known Sofia landmark."
       }
     ]
   },
@@ -120,7 +125,7 @@
       },
       {
         "question": "What landmarks are near the Russian Monument?",
-        "answer": "The Russian Monument stands near several major Sofia landmarks, including Alexander Nevsky Cathedral, St. Sofia Church and the National Archaeological Museum – all within a 10–20 minute walk."
+        "answer": "The Russian Monument stands near several major Sofia landmarks, including Alexander Nevsky Cathedral, St. Sofia Church and the National Archaeological Museum – all within about a 10–25 minute walk."
       },
       {
         "question": "Is the Russian Monument accessible to visitors with reduced mobility?",
@@ -155,7 +160,11 @@
     "city": "City",
     "cityValue": "Sofia",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.4 (7,267)",
+    "googleRatingValue": "4.4 (7,278)",
+    "admission": "Admission",
+    "admissionValue": "Free",
+    "opening": "Opening Hours",
+    "openingValue": "Open 24/7",
     "address": "Address",
     "addressValue": "pl. \"Ruski pametnik\", blvd. \"Makedonia\" 51, 1606 Sofia, Bulgaria",
     "accessibility": "Accessibility",
@@ -186,17 +195,18 @@
   "transport": {
     "title": "How to Get Here",
     "fromCenter": "From Sofia Center",
-    "fromCenterDesc": "The monument sits in Sofia Center at the junction of Makedonia and Evlogi Georgiev boulevards, about a 15-20 minute walk from the central pedestrian zone and most major hotels.",
+    "fromCenterDesc": "The monument sits in Sofia Center at the traffic roundabout of Russian Monument Square, where Makedonia Boulevard meets General Skobelev and General Totleben boulevards, about a 15-20 minute walk from the central pedestrian zone and most major hotels.",
     "fromStation": "By Public Transport",
     "fromStationDesc": "The \"Руски паметник\" (Ruski Pametnik) tram stop is served by tram lines 4, 5 and 15. Bus and trolley lines also stop on Makedonia Boulevard.",
     "fromAirport": "From Sofia Airport",
-    "fromAirportDesc": "Take the metro (Line 1 or 2) to Serdika Station, then transfer to a tram, bus or trolley towards Ruski Pametnik, or continue by taxi.",
+    "fromAirportDesc": "From Sofia Airport, take Metro Line M4 (the airport line) to Serdika Station, then continue to Ruski Pametnik by tram, bus, trolley or taxi.",
     "publicTransport": "Public Transport",
     "publicTransportDesc": "Trams 4, 5 and 15 stop at the \"Руски паметник\" stop at the square; bus lines 72, 76, 204 and trolleys 5, 8 stop nearby on Makedonia Boulevard. Metro Line 3 is about a 10-15 minute walk away.",
     "walking": "Walking",
     "walkingDesc": "About 20-25 minutes from Alexander Nevsky Cathedral, or 15-20 minutes from the central pedestrian zone and Vitosha Boulevard.",
     "driving": "Driving",
-    "drivingDesc": "Located on Makedonia Boulevard, a major thoroughfare in Sofia, at the junction with Evlogi Georgiev Boulevard."
+    "drivingDesc": "Located on Makedonia Boulevard, a major thoroughfare in Sofia, at the traffic roundabout of Russian Monument Square, where it meets General Skobelev and General Totleben boulevards.",
+    "updateNote": "Updated: October 2026 · Metro information follows the official Sofia Metro website (metropolitan.bg)."
   },
   "facilities": {
     "title": "Visitor Facilities Nearby",
@@ -218,19 +228,9 @@
         "hint": "Within 5-10 min walk"
       },
       {
-        "name": "Hotels & Accommodation",
-        "description": "Sofia's city centre offers hotels, boutique hotels, apartments and hostels within walking distance of the monument, suitable for all budgets.",
-        "hint": "Several options within 10-20 min walk"
-      },
-      {
         "name": "Shops & Supermarkets",
         "description": "Convenience stores and supermarkets are scattered across the centre, with larger shopping centres about 10-15 minutes away on foot.",
         "hint": "Within 5-15 min walk"
-      },
-      {
-        "name": "Fuel & EV Charging",
-        "description": "Petrol stations are scarce in the city centre, so refuel before entering Sofia. Public electric-vehicle charging points are available at some car parks and public areas.",
-        "hint": "Fuel: city edge · EV charging: select car parks"
       }
     ]
   },
@@ -240,8 +240,8 @@
     "steps": [
       "Start at the Russian Monument",
       "Walk to St. Sofia Church (10 min)",
-      "Visit the Alexander Nevsky Cathedral (15 min)",
-      "Explore the National Archaeological Museum (20 min)",
+      "Visit the Alexander Nevsky Cathedral (20-25 min)",
+      "Explore the National Archaeological Museum (15-20 min)",
       "End at Vitosha Boulevard for shopping/dining"
     ]
   },
@@ -328,7 +328,7 @@
     ]
   },
   "mapSection": {
-    "title": "Map Location",
+    "title": "Map & Location of the Russian Monument",
     "subtitle": "M8R6+W5 Sofia, Bulgaria",
     "openMaps": "View on Google Maps"
   },
@@ -349,11 +349,18 @@
       "mfa": "Ministry of Foreign Affairs - Consular Services"
     },
     "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies.",
-    "photoCredit": "All photos displayed on this website are the property and copyright of their respective photographers."
+    "photoCredit": "All photos displayed on this website are the property and copyright of their respective photographers.",
+    "lastUpdated": "Page last updated: October 2026"
   },
   "officialManagement": {
     "title": "About The Russian Monument",
     "text": "The Russian Monument is a protected cultural heritage site managed under the auspices of the Bulgarian Ministry of Culture."
+  },
+  "krasnoSelo": {
+    "title": "The Russian Monument & the Krasno Selo District",
+    "content": "The Russian Monument lies within the administrative boundaries of the Krasno Selo District (район „Красно село“), one of the 24 districts of the Sofia Municipality. Although the square feels like part of central Sofia, it is officially part of Krasno Selo, and the monument is listed among the district's important historical monuments in Sofia's official heritage register. The link between the Russian Monument and Krasno Selo is historical: the district covers neighbourhoods in the south-western part of Sofia, and the square is one of the key transport and urban nodes connecting the centre with the city's southern districts. For visitors, this means easy access by public transport and a convenient starting point for exploring the surrounding neighbourhoods and landmarks.",
+    "linkText": "Official Krasno Selo District page",
+    "linkUrl": "https://krasnoselo.bg/bg/pametnici-i-pametni-plochi-na-teritoriyata-na-rayona"
   },
   "privacy": {
     "title": "Privacy Policy",

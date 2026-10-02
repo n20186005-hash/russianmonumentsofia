@@ -1,13 +1,15 @@
 import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
-import Intro from '@/components/Intro';
 import BasicInfo from '@/components/BasicInfo';
+import MapEmbed from '@/components/MapEmbed';
+import TransportSection from '@/components/TransportSection';
+import Intro from '@/components/Intro';
 import HoursSection from '@/components/HoursSection';
 import TicketsSection from '@/components/TicketsSection';
-import TransportSection from '@/components/TransportSection';
 import FacilitiesSection from '@/components/FacilitiesSection';
 import InfoSection from '@/components/InfoSection';
+import DistrictSection from '@/components/DistrictSection';
 import StoriesSection from '@/components/StoriesSection';
 import RouteSection from '@/components/RouteSection';
 import NearbyMonumentsSection from '@/components/NearbyMonumentsSection';
@@ -15,7 +17,6 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import FAQSection from '@/components/FAQSection';
 import SourcesSection from '@/components/SourcesSection';
-import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
 
 export default async function HomePage({
@@ -31,13 +32,15 @@ export default async function HomePage({
       <Header />
       <main>
         <Hero />
-        <Intro />
         <BasicInfo />
+        <MapEmbed />
+        <TransportSection />
+        <Intro />
         <HoursSection />
         <TicketsSection />
-        <TransportSection />
         <FacilitiesSection />
         <InfoSection />
+        <DistrictSection />
         <StoriesSection />
         <RouteSection />
         <NearbyMonumentsSection />
@@ -45,7 +48,6 @@ export default async function HomePage({
         <Reviews />
         <FAQSection />
         <SourcesSection />
-        <MapEmbed />
       </main>
       <Footer />
     </>

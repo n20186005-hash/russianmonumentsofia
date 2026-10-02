@@ -91,6 +91,12 @@ export default function TransportSection() {
             />
           ))}
         </div>
+
+        {t.has('updateNote') && (
+          <p className="mt-8 text-sm" style={{ color: 'var(--text-muted)' }}>
+            {t('updateNote')}
+          </p>
+        )}
       </div>
     </section>
   );

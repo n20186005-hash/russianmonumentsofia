@@ -6,7 +6,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Fixed build date to avoid drift between builds
   const lastModified = new Date('2026-08-31');
 
-  const pages = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
+  const pages = [''];
 
   const entries: MetadataRoute.Sitemap = [];
 

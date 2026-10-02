@@ -15,6 +15,10 @@ export async function generateMetadata({
   const selfUrl = `${baseUrl}/${locale}/privacy-policy`;
 
   return {
+    robots: {
+      index: false,
+      follow: true,
+    },
     alternates: {
       canonical: selfUrl,
       languages: {

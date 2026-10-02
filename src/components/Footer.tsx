@@ -65,6 +65,9 @@ export default function Footer() {
           style={{ borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}
         >
           <p>{t('rights')}</p>
+          {t.has('lastUpdated') && (
+            <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('lastUpdated')}</p>
+          )}
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('photoCredit')}</p>
         </div>
